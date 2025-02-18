@@ -1,0 +1,9 @@
+2025-Feb-02/18/25-10:50:27,ETL Has Started
+2025-Feb-02/18/25-10:50:27,Extraction Has Started
+2025-Feb-02/18/25-10:50:28,Transformation Has Began
+2025-Feb-02/18/25-10:50:28,Transformation has Ended!!
+2025-Feb-02/18/25-10:50:28,Loading phase started
+2025-Feb-02/18/25-10:50:28,Loading of Data is Successful
+2025-Feb-02/18/25-10:50:28,Loading to Database!!
+2025-Feb-02/18/25-10:50:28,Running Queries!!
+2025-Feb-02/18/25-10:50:28,Process has ended
